@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 samp.txt
+=======
+GitHub練習
+>>>>>>> b6ab3838dc10c08413491e3f8b394db1f07025bb
